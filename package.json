@@ -2,7 +2,7 @@
   "name": "evento",
   "version": "1.0.0",
   "description": "event html template",
-  "main": "gulpfile.js",
+  "main": "index.js",
   "scripts": {
     "start": "gulp"
   },
