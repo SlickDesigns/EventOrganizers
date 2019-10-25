@@ -41,4 +41,4 @@ gulp.task('watch',function () {
     gulp.watch('assets/scss/**/*.scss',['style'])
 });
 
-gulp.task('default',['style','watch']);
+gulp.task('build',['style','watch']);
